@@ -1,0 +1,120 @@
+DAFTAR SOAL - FORM PENILAIAN SIGAP AWARD 2025
+==============================================
+Keterangan: Soal yang membutuhkan bukti dukung ditandai dengan
+"→ Upload bukti dukung: [jenis lampiran]"
+
+----------------------------------------------
+
+1.1 PEMBENTUKAN KELOMPOK KERJA & KELEMBAGAAN :
+Apakah ada kelompok kerja pelaksana Jaringan Data dan Informasi Geospasial lingkup BPKH?
+→ Upload bukti dukung: Lampiran SK Terbaru
+
+1.2 PERAN GEOSPASIAL KELEMBAGAAN :
+Apakah ada pembagian peran dan tanggung jawab yang jelas pada kelompok kerja pelaksana Jaringan Data dan Informasi Geospasial dilingkup BPKH?
+
+1.3 STRATEGI GEOSPASIAL :
+Apakah ada Strategi (Rencana Strategi/Roadmap) yang mengidentifikasi visi, misi, tujuan, dan sasaran inisiatif pengelolaan informasi geospasial untuk menciptakan Satu Data Kehutanan Indonesia?
+→ Upload bukti dukung: Lampiran bukti dokumen Rencana Strategi/Roadmap
+
+1.4 PEMANTAUAN DAN EVALUASI / INDIKATOR KEBERHASILAN :
+Apakah ada pelaporan dan evaluasi yang dikirimkan ke IPSDH secara rutin?
+→ Upload bukti dukung: Lampiran bukti dokumen laporan
+
+2.1 BERBAGI DATA :
+Apakah ada regulasi khusus ditingkat BPKH yang mengatur prosedural berbagi pakai data dan informasi geospasial kehutanan?
+→ Upload bukti dukung: Lampiran bukti dokumen jika ada
+
+2.2 STRATEGI KEPATUHAN :
+Apakah ada Strategi Kepatuhan berupa Berita Acara Serah Terima (BAST)/Pakta Integritas yang mendefinisikan untuk mematuhi kebijakan, undang-undang, dan peraturan geospasial dan bagaimana kepatuhan akan dipantau?
+→ Upload bukti dukung: Lampiran bukti dokumen jika ada
+
+3.1 TATA KELOLA KEUANGAN DAN AKUNTABILITAS :
+Apakah terdapat anggaran khusus untuk pengumpulan dan pelayanan Data dan Informasi Geospasial Kehutanan di BPKH?
+→ Upload bukti dukung: Lampiran Data dukung berupa: Dokumen RKAKL
+
+3.2 SUMBER PENDANAAN :
+Apakah BPKH memiliki sumber pendanaan selain dari APBN untuk operasionalisasi pengumpulan dan pelayanan DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran data berupa Agreement, AWP
+
+4.1 BERBAGI DATA :
+Apakah ada SOP resmi yang berisi alur penyebarluasan data geospasial dari BPKH untuk pemohon?
+→ Upload bukti dukung: Lampiran SOP/Alur dan Bukti Sosialisasi
+
+4.2 PENYIMPANAN DAN PENGAMBILAN DATA :
+Apakah BPKH memiliki media penyimpanan khusus untuk DIGT Kehutanan yang terpisah dari non DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran Foto Media Penyimpanan
+
+5.1 STRATEGI INOVASI GEOSPASIAL :
+Apakah ada strategi inovasi yang mendorong optimalisasi pendayagunaan DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran dokumen deskripsi penjelasan inovasi
+
+5.2 INFRASTRUKTUR ICT INTI :
+Apakah ada sarana-prasarana pendukung inovasi? Contoh: sarana fisik (ruang multimedia, ruang pertemuan, dll); prasarana teknologi (jaringan internet berkecepatan tinggi, sistem aplikasi, dll)?
+→ Upload bukti dukung: Lampiran bukti dokumentasi sarana/prasarana pendukung
+
+5.3 MODERNISASI ASET DATA :
+Apakah BPKH menggunakan perangkat lunak berlisensi atau tidak untuk perangkat lunak/aplikasi berbasis komersial?
+→ Upload bukti dukung: Lampiran Screenshot Bukti Lisensi (jika menjawab nilai 100 dengan penggunaan perangkat komersial)
+
+5.4 SISTEM TERPADU DARI SISTEM :
+Apakah inovasi yang dihasilkan oleh BPKH telah terintegrasi dengan SIGAP?
+→ Upload bukti dukung: Lampiran bukti dokumentasi
+
+6.1 KETERLIBATAN ORGANISASI PENGEMBANGAN STANDAR INTERNASIONAL - INTERNATIONAL STANDARD ORGANIZATION (ISO) :
+Apakah BPKH telah melakukan ISO 9001:2015, tentang Manajemen Mutu?
+→ Upload bukti dukung: Lampiran dokumen deskripsi penjelasan inovasi
+
+7.1 KESADARAN DAN PELUANG KEMITRAAN :
+Apakah ada keterlibatan atau kerjasama dari pihak luar dengan BPKH?
+→ Upload bukti dukung: Lampiran bukti dokumen dukung dokumentasi kegiatan
+
+7.2 KOLABORASI LINTAS SEKTOR :
+Apakah BPKH mengimplementasikan kolaborasi interdisipliner lembaga sektor publik?
+→ Upload bukti dukung: Lampiran bukti dokumen dukung dokumentasi kegiatan
+
+7.3 MENGELOLA KEMITRAAN :
+Apakah kemitraan yang telah berjalan dikelola dengan baik?
+
+8.1 KELOMPOK KERJA :
+Apakah ada Program Peningkatan Kapasitas dan Pendidikan Infrastruktur DIGT Kehutanan yang direncanakan/diagendakan?
+→ Upload bukti dukung: Lampiran bukti dokumen surat dukung dan lainnya
+
+8.2 PENILAIAN DAN ANALISIS :
+Apakah telah dilakukan analisis kebutuhan pengembangan kapasitas dalam penyelenggaraan DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran bukti dokumen surat hasil analisis kebutuhan
+
+8.3 STRATEGI DAN RENCANA IMPLEMENTASI :
+Apakah ada strategi pengembangan kapasitas SDM pengelola DIGT di BPKH?
+
+8.4 PROGRAM PENDIDIKAN TINGGI :
+Apakah terdapat SDM BPKH yang telah/sedang mengikuti pendidikan formal ke perguruan tinggi untuk memahami konsep penyelenggaraan DIGT?
+→ Upload bukti dukung: Lampiran bukti dukung surat/dokumentasi
+
+8.5 PENDEKATAN PENGEMBANGAN PROFESIONAL :
+Apakah terdapat SDM BPKH yang telah/sedang mengikuti pendidikan non formal/training untuk memahami konsep penyelenggaraan DIGT?
+→ Upload bukti dukung: Lampiran bukti dukung surat/dokumentasi
+
+8.6 KETERSEDIAAN Jabatan Fungsional SURVEYOR PEMETAAN (JF SURTA) :
+Apakah terdapat Jabatan Fungsional Surveyor Pemetaan di Unit Kerja Saudara?
+→ Upload bukti dukung: Lampiran bukti dukung berupa SK/Karpeg/Surat Usulan JF Surta, dll
+
+8.7 KETERSEDIAAN Jabatan Fungsional Pranata Komputer (JF PRAKOM) :
+Apakah terdapat Jabatan Fungsional Pranata Komputer di Unit Kerja Saudara?
+→ Upload bukti dukung: Lampiran bukti dukung berupa SK/Karpeg/Surat Usulan JF Prakom, dll
+
+9.1 TATA KELOLA KOMUNIKASI :
+Apakah BPKH memiliki pemahaman yang jelas tentang kepentingan pengguna DIGT Kehutanan di wilayah kerjanya?
+→ Upload bukti dukung: Lampiran dokumen deskripsi penjelasan inovasi
+
+9.2 TIM KOMUNIKASI :
+Apakah ada tim khusus di BPKH untuk melakukan sosialisasi dan pelayanan DIGT Kehutanan?
+
+9.3 PENGGUNAAN DIGT OLEH PENGGUNA :
+Apakah ada analisis penggunaan DIGT dari pengguna?
+→ Upload bukti dukung: Lampiran bukti analisis penggunaan DIGT
+
+----------------------------------------------
+RINGKASAN:
+Total soal         : 28
+Wajib bukti dukung : 24 soal
+Tanpa bukti dukung :  4 soal (1.2, 7.3, 8.3, 9.2)

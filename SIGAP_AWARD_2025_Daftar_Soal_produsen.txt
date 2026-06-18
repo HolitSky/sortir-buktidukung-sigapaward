@@ -1,0 +1,155 @@
+DAFTAR SOAL - FORM PENILAIAN SIGAP AWARD 2025
+PRODUSEN DG (DATA GEOSPASIAL)
+==============================================
+Keterangan: Soal yang membutuhkan bukti dukung ditandai dengan
+"→ Upload bukti dukung: [jenis lampiran]"
+
+----------------------------------------------
+
+1.1 PEMBENTUKAN KELOMPOK KERJA :
+Apakah ada tim pelaksana jaringan informasi geospasial lingkup unit kerja anda?
+→ Upload bukti dukung: Lampiran SK Terbaru
+
+1.2 PERAN GEOSPASIAL KELEMBAGAAN :
+Apakah ada pembagian peran dan tanggung jawab yang jelas pada tim pelaksana jaringan informasi geospasial lingkup unit kerja anda?
+
+1.3 STRATEGI GEOSPASIAL :
+Apakah ada Strategi (Rencana Strategi/Roadmap) yang mengidentifikasi visi, misi, tujuan, dan sasaran inisiatif pengelolaan informasi geospasial untuk menciptakan Satu Data Kehutanan Indonesia?
+→ Upload bukti dukung: Lampiran bukti dokumen Rencana Strategi/Roadmap
+
+2.1 BERBAGI DATA :
+Apakah ada pengaturan yang efektif dalam kerangka kebijakan dan hukum untuk memastikan proses pengumpulan, pengolahan, pemutakhiran dan quality control di lingkup Unit Kerja Produsen DG?
+→ Upload bukti dukung: Lampiran bukti dokumen
+
+2.2 HAK KEKAYAAN INTELEKTUAL :
+Apakah ada kerangka kebijakan dan hukum yang kuat yang mengklarifikasi hak kekayaan intelektual (HKI) sehubungan dengan data dan informasi geospasial kehutanan yang diproduksi oleh Produsen DG?
+→ Upload bukti dukung: Lampiran bukti dokumen
+
+3.1 TATA KELOLA KEUANGAN DAN AKUNTABILITAS :
+Apakah terdapat anggaran khusus (APBN) untuk pengumpulan dan penjaminan kualitas DIGT di Unit Kerja Saudara?
+→ Upload bukti dukung: Lampiran Data dukung berupa: Dokumen RKAKL
+
+3.2 SUMBER PENDANAAN :
+Apakah Produsen DG memiliki sumber pendanaan selain APBN untuk pengumpulan dan penjaminan kualitas DIGT?
+→ Upload bukti dukung: Lampiran data berupa Agreement, AWP
+
+4.1 INFRASTRUKTUR GEODETIK :
+Apakah ada referensi datum geodetik nasional tunggal yang umum, proyeksi, dan sistem koordinat?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.2 INVENTARIS DATA DAN PROFIL DATA :
+Apakah telah diidentifikasi serangkaian dataset pada setiap tema IGT?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.3 ANALISIS KESENJANGAN DATA :
+Apakah semua dataset geospasial telah dibuat dengan tingkat kualitas yang disepakati?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.4 PETA JALAN TEMA DATA :
+Apakah semua dataset geospasial dioptimalkan dan ditingkatkan?
+
+4.5 KUALITAS DATA :
+Apakah dataset diperiksa kualitas datanya untuk memastikan bahwa data tersebut sesuai dengan tujuan?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.6 METADATA :
+Apakah metadata tersedia untuk semua layer?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.7 PENYIMPANAN DAN PENGAMBILAN DATA :
+Apakah Produsen DG memiliki infrastruktur penyimpanan dataset/IGT yang aman dan mudah diakses?
+→ Upload bukti dukung: Lampiran dokumentasi
+
+4.8 SIKLUS ALIRAN DATA :
+Apakah Produsen DG memiliki SOP urutan proses produksi DIGT?
+→ Upload bukti dukung: Lampiran dokumen SOP
+
+4.9 INTEROPERABILITAS DATA :
+Apakah Produsen DG memiliki Sistem Informasi yang dapat terintegrasi dengan SIGAP?
+→ Upload bukti dukung: Lampiran bukti dokumentasi
+
+5.1 STRATEGI INOVASI GEOSPASIAL :
+Apakah ada strategi inovasi untuk mendorong peningkatan kualitas DIGT?
+→ Upload bukti dukung: Lampiran dokumen deskripsi penjelasan inovasi
+
+5.2 INFRASTRUKTUR ICT INTI :
+Apakah ada sarana-prasarana pendukung inovasi?
+→ Upload bukti dukung: Lampiran bukti dokumentasi
+
+5.3 MODERNISASI ASET DATA :
+Apakah Produsen DG menggunakan perangkat lunak berlisensi atau tidak untuk perangkat lunak/aplikasi berbasis komersial?
+→ Upload bukti dukung: Lampiran Screenshot Bukti Lisensi (jika menjawab nilai 100 dengan penggunaan perangkat komersial)
+
+5.4 SISTEM INOVASI NASIONAL :
+Apakah data dan teknologi geospasial di Unit Kerja Anda termasuk dalam upaya inovasi Kementerian Kehutanan?
+
+5.5 SISTEM TERPADU DARI SISTEM :
+Apakah inovasi yang dihasilkan oleh Produsen DG telah terintegrasi dengan SIGAP?
+→ Upload bukti dukung: Lampiran bukti dokumentasi
+
+6.1 TATA KELOLA STANDAR :
+Apakah ada standarisasi dalam penyusunan DIGT di Unit Kerja Produsen DG?
+→ Upload bukti dukung: Lampiran Bukti dukung standar penyusunan IGT
+
+6.2 STRATEGI/RENCANA STANDAR :
+Apakah ada Strategi Standar dan proses untuk monitoring kualitas DIGT?
+
+6.3 IMPLEMENTASI :
+Apakah telah ada standar teknologi dan data yang mendukung integrasi dan interoperabilitas antar sistem?
+→ Upload bukti dukung: Lampiran Bukti dukung standar teknologi
+
+6.4 KEPATUHAN STANDAR :
+Apakah ada sistem kepatuhan standar untuk memastikan kualitas DIGT Kehutanan?
+
+7.1 KESADARAN DAN PELUANG KEMITRAAN :
+Apakah ada keterlibatan atau kerjasama dari pihak luar dengan Produsen DG?
+→ Upload bukti dukung: Lampiran bukti dokumen dukung dokumentasi/perjanjian dan lainnya
+
+7.2 KOLABORASI LINTAS SEKTOR :
+Apakah Produsen DG mengimplementasikan kolaborasi interdisipliner lembaga sektor publik dalam penjaminan kualitas dan penyusunan DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran bukti dokumen dukung dokumentasi/perjanjian dan lainnya
+
+7.3 MENGELOLA KEMITRAAN :
+Apakah kemitraan yang telah berjalan dikelola dengan baik?
+
+8.1 KELOMPOK KERJA :
+Apakah ada Program Peningkatan Kapasitas dan Pendidikan Infrastruktur DIGT Kehutanan yang direncanakan/diagendakan?
+→ Upload bukti dukung: Lampiran dokumen bukti surat dukung dan lainnya
+
+8.2 PENILAIAN DAN ANALISIS :
+Apakah telah dilakukan analisis kebutuhan pengembangan kapasitas dalam penyelenggaraan DIGT Kehutanan?
+→ Upload bukti dukung: Lampiran bukti dokumen analisis kebutuhan
+
+8.3 STRATEGI DAN RENCANA IMPLEMENTASI :
+Apakah ada strategi pengembangan kapasitas SDM pengelola DIGT di Produsen DG?
+
+8.4 PROGRAM PENDIDIKAN TINGGI :
+Apakah terdapat SDM Produsen DG yang telah/sedang mengikuti pendidikan formal jenjang selanjutnya ke perguruan tinggi untuk memahami konsep penyelenggaraan DIGT?
+→ Upload bukti dukung: Lampiran bukti dukung surat atau dokumentasi dan lainnya
+
+8.5 PENDEKATAN PENGEMBANGAN PROFESIONAL :
+Apakah terdapat SDM Produsen DG yang telah/sedang mengikuti pendidikan non formal/training untuk memahami konsep penyelenggaraan DIGT?
+→ Upload bukti dukung: Lampiran bukti dukung surat atau dokumentasi dan lainnya
+
+8.6 KETERSEDIAAN Jabatan Fungsional Surveyor Pemetaan (JF SURTA) :
+Apakah terdapat Jabatan Fungsional Surveyor Pemetaan di Unit Kerja Saudara?
+→ Upload bukti dukung: Lampiran bukti dukung berupa SK/Karpeg/Surat Usulan JF Surta, dll
+
+8.7 KETERSEDIAAN Jabatan Fungsional Pranata Komputer (JF PRAKOM) :
+Apakah terdapat Jabatan Fungsional Pranata Komputer di Unit Kerja Saudara?
+→ Upload bukti dukung: Lampiran bukti dukung berupa SK/Karpeg/Surat Usulan JF Prakom, dll
+
+9.1 TATA KELOLA KOMUNIKASI :
+Apakah Produsen DG memiliki pemahaman yang jelas tentang pentingnya standar dan kualitas DIGT?
+
+9.2 BASIS DATA STUDI KASUS :
+Apakah Produsen DG memiliki pemahaman yang jelas tentang Pemenuhan Basis Data Spasial Kehutanan pada masing-masing unit kerja?
+
+9.3 TAUTAN KE SDGs :
+Apakah ada tautan yang sepenuhnya ditetapkan antara DIGT pada Unit Kerja Produsen DG dan Tujuan Pembangunan Berkelanjutan PBB?
+
+----------------------------------------------
+RINGKASAN:
+Total soal         : 38
+Wajib bukti dukung : 28 soal
+Tanpa bukti dukung : 10 soal (1.2, 4.4, 5.4, 6.2, 6.4, 7.3, 8.3, 9.1, 9.2, 9.3)
