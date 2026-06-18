@@ -762,7 +762,7 @@ Prefix `no_` diikuti `{pilar}_{soal}_` adalah **wajib**.
 
 <sub>
 
-🌿 *Dibangun dengan ❤️ untuk mendukung pengelolaan Data dan Informasi Geospasial Tematik (DIGT) Kehutanan Indonesia* 🌿
+🌿 *Dibangun dengan ikhlas untuk mendukung pengelolaan Data dan Informasi Geospasial Tematik (DIGT) Kehutanan Indonesia* 🌿
 
 **SIGAP Award 2025** — Sistem Informasi Geospasial Alam Peta
 
